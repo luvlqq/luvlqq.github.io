@@ -12,6 +12,15 @@
     margin-top: 1px;
 }
 
+.my_stack{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 15px;
+    text-decoration-line:underline;
+    text-decoration-color:rgb(141, 16, 203)
+}
+
 .speciality{
     font-family: 'Inconsolata', monospace;
     text-align: center;
@@ -20,10 +29,17 @@
     text-decoration-color:rgb(141, 16, 203) ;
 }
 
+.technology{
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
 .prew_proj{
     font-family: 'Inconsolata', monospace;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 50px;
     text-decoration-line:underline;
     text-decoration-color:rgb(141, 16, 203)
